@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Miran aka [Zaishen][profilepage] 👋
 
-<!--
-**Zai-shen/Zai-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a _Mediainformatics and Visual Computing Student_ at TU Vienna, _Game Developer_ and passionate _Gamer_.  
 
-Here are some ideas to get you started:
+- :computer: I’m currently working on expanding my game dev knowledge.
+- 🌱 I’m currently learning Unity and C#.
+- 👯 I’m looking to collaborate with other content creators.
+- :battery: My goal for 2020: Creating and releasing my first game on various platforms.
+- 💬 Ask me about anything code related, I'm always happy to help.
+- 📫 How to reach me: soulfast333{at}gmail.com
+- ⚡ Fun fact: I love growing my own bonsais, maybe I'll make a game about this one day.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Currently I've explored following programing, scripting- and markup languages, as well as librarys:
+<!--<img align="left" alt="VS Code" width="26px" scr="" /> -->
+
+[profilepage]: https://github.com/Zai-shen

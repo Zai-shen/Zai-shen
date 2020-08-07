@@ -17,8 +17,9 @@ Currently I've explored following programing, scripting- and markup languages, a
 
 <!--<img align="left" alt="Vue" width="30px" src="assets/vuejs-original.svg" />-->
 
-    <img src="assets/vuejs-original.svg">
-    <img src="Zai-shen/assets/vuejs-original.svg" alt="VUEIMG">
+<img src="assets/vuejs-original.svg">
+
+<img src="Zai-shen/assets/vuejs-original.svg" alt="VUEIMG">
 
 <img align="left" alt="Angular" width="30px" src="assets/angularjs-plain-wordmark.svg" />
 

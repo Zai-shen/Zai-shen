@@ -21,6 +21,8 @@ Currently I've explored following programing, scripting- and markup languages, a
 
 <img src="Zai-shen/assets/vuejs-original.svg" alt="VUEIMG">
 
+<img src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/vuejs-original.svg">
+
 <img align="left" alt="Angular" width="30px" src="assets/angularjs-plain-wordmark.svg" />
 
 [profilepage]: https://github.com/Zai-shen

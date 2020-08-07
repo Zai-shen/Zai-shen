@@ -63,18 +63,20 @@
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/vuejs-original.svg">
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/angularjs-original.svg" />
 
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/android-original.svg" />
-<img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/css3-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/bootstrap-plain.svg" />
+<img align="left" alt="Material UI" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/material_ui.svg" />
 <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/html5-original.svg" />
+<img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/css3-original.svg" />
 <img align="left" alt="D3" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/d3js-original.svg" />
 <img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/nodejs-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/bootstrap-plain.svg" />
 <img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/npm-original-wordmark.svg" />
-<img align="left" alt="Scrum Workflow" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/scrum.svg" />
-<img align="left" alt="LaTeX" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/LaTeX.svg" />
+<img align="left" alt="OpenGL" width="40px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/Opengl-logo.svg" />
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/android-original.svg" />
+<img align="left" alt="LaTeX" width="40px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/LaTeX.svg" />
 <img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/Markdown-mark.svg" />
-<img align="left" alt="OpenGL" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/Opengl-logo.svg" />
 <img align="left" alt="Svg" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/SVG_Logo.svg" />
 <img align="left" alt="Xml" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/xml.svg" />
+<img align="left" alt="Scrum Workflow" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/scrum.svg" />
+
 
 [profilepage]: https://github.com/Zai-shen

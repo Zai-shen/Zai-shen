@@ -29,9 +29,22 @@ Currently I've explored following programing, scripting- and markup languages, a
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/cplusplus-original.svg" />
 
 
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/nodejs-original.svg" />
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/nodejs-original.svg" />
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/nodejs-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/android-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/bitbucket-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/bootstrap-plain.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/confluence-original.svg" />
+
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/csharp-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/github-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/gitlab-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/intellij-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/mysql-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/npm-original-wordmark.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/php-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/sourcetree-original.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/trello-plain.svg" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/visualstudio-plain.svg" />
+
 
 
 [profilepage]: https://github.com/Zai-shen

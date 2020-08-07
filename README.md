@@ -15,7 +15,13 @@
 Currently I've explored following programing, scripting- and markup languages, as well as librarys:
 <!--<img align="left" alt="VS Code" width="26px" scr="" /> -->
 
-<img align="left" alt="Vue" width="30px" src="assets/vuejs-original.svg" />
+<!--<img align="left" alt="Vue" width="30px" src="assets/vuejs-original.svg" />-->
+
+<picture>
+    <source srcset="assets/vuejs-original.svg" type="image/svg+xml">
+    <img src="Zai-shen/assets/vuejs-original.svg" alt="VUEIMG">
+</picture>
+
 <img align="left" alt="Angular" width="30px" src="assets/angularjs-plain-wordmark.svg" />
 
 [profilepage]: https://github.com/Zai-shen

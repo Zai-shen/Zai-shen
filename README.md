@@ -1,4 +1,4 @@
-### Hi there, I'm Miran aka [Zaishen][profilepage] 👋
+### Hi there, I'm Miran a.k.a. [Zaishen][profilepage] 👋
 
 #### I'm a _Mediainformatics and Visual Computing Student_ at TU Vienna, _Game Developer_ and passionate _Gamer_.  
 
@@ -8,7 +8,7 @@
 - :battery: My goal for 2020: Creating and releasing my first game on various platforms.
 - 💬 Ask me about anything code related, I'm always happy to help.
 - 📫 How to reach me: soulfast333{at}gmail.com
-- ⚡ Fun fact: I love growing my own bonsais, maybe I'll make a game about this one day.  
+- ⚡ Fun fact: I love growing my own bonsais, maybe I'll make a game about it one day.  
 
 <hr>
 
@@ -23,6 +23,7 @@
 <img align="left" alt="Sourcetree" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/sourcetree-original.svg" />
 <img align="left" alt="Trello" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/trello-plain.svg" />
 <img align="left" alt="Confluence" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/confluence-original.svg" />
+<img align="left" alt="Jira" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/jira.svg" />
 
 <br>
 
@@ -48,21 +49,25 @@
 
 <img align="left" alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/intellij-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/visualstudio-plain.svg" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/visualstudio_code.svg" />
+<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/unity_small.svg" />
 
 <br>
 
 #### Frameworks, Librarys, Other
 
+<img align="left" alt="Joomla!" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/joomla.svg" />
 <img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/vuejs-original.svg">
 <img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/angularjs-original.svg" />
 
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/android-original.svg" />
 <img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/css3-original.svg" />
 <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/html5-original.svg" />
 <img align="left" alt="D3" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/d3js-original.svg" />
 <img align="left" alt="Node" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/nodejs-original.svg" />
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/android-original.svg" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/bootstrap-plain.svg" />
 <img align="left" alt="Npm" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/npm-original-wordmark.svg" />
+<img align="left" alt="Scrum Workflow" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/scrum.svg" />
 
 
 

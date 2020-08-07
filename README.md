@@ -2,9 +2,9 @@
 
 #### I'm a _Mediainformatics and Visual Computing Student_ at TU Vienna, _Game Developer_ and passionate _Gamer_.  
 
-- :computer: I’m currently working on expanding my game dev knowledge.
-- :bulb: I’m currently learning Unity and C#.
-- 👯 I’m looking to collaborate with other content creators.
+- :computer: Currently I am working on expanding my game dev knowledge.
+- :bulb: At the moment I enjoy learning Unity and C#.
+- :earth_africa: I’m looking to collaborate with other content creators.
 - :battery: My goal for 2020: Creating and releasing my first game on various platforms.
 - 💬 Ask me about anything code related, I'm always happy to help.
 - 📫 How to reach me: soulfast333{at}gmail.com

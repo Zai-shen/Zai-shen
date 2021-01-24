@@ -4,8 +4,8 @@
 
 - :computer: Currently I am working on expanding my game dev knowledge.
 - :bulb: At the moment I enjoy learning Unity and C#.
-- :earth_africa: I’m looking to collaborate with other content creators.
-- :battery: My goal for 2020: Creating and releasing my first game on various platforms.
+- :globe_with_meridians: I’m looking to collaborate with other content creators.
+- :battery: My goal for 2021: Creating and releasing games on various platforms.
 - 💬 Ask me about anything code related, I'm always happy to help.
 - 📫 How to reach me: soulfast333{at}gmail.com
 - 🌱 Fun fact: I love growing my own bonsais, maybe I'll make a game about it one day.  

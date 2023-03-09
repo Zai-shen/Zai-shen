@@ -1,12 +1,12 @@
 ### Hi there, I'm Miran a.k.a. [Zaishen][profilepage] 👋
 
-#### I'm a _Mediainformatics and Visual Computing Student_ at TU Vienna, _Game Developer_ and passionate _Gamer_.  
+#### I'm a _Software Engineer_, _Game Developer_ and passionate _Gamer_.  
 
 - :computer: Currently I am working on expanding my game dev knowledge.
-- :bulb: At the moment I enjoy learning Unity and C#.
+- :bulb: At the moment I enjoy working with Unity and C#, while sometimes dipping into Unreal.
 - :globe_with_meridians: I’m looking to collaborate with other content creators.
-- :battery: My goal for 2021: Creating and releasing games on various platforms.
-- 💬 Ask me about anything code related, I'm always happy to help.
+- :battery: My goal for 2023: Creating and releasing even more games on various platforms.
+- 💬 Ask me anything code related, I'm always happy to help.
 - 📫 How to reach me: soulfast333{at}gmail.com
 - 🌱 Fun fact: I love growing my own bonsais, maybe I'll make a game about it one day.  
 
@@ -49,10 +49,10 @@
 
 #### Development environments
 
+<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/unity_small.svg" />
 <img align="left" alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/intellij-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/visualstudio-plain.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/visualstudio_code.svg" />
-<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Zai-shen/Zai-shen/master/assets/unity_small.svg" />
 
 <br>
 

@@ -5,7 +5,7 @@
 - :computer: Currently I am working on expanding my game dev knowledge.
 - :bulb: At the moment I enjoy working with Unity and C#, while sometimes dipping into Unreal.
 - :globe_with_meridians: I’m looking to collaborate with other content creators.
-- :battery: My goal for 2024: Creating and releasing even more games on various platforms.
+- :battery: My goal for 2025: Creating and releasing even more games on various platforms.
 - 💬 Ask me anything code related, I'm always happy to help.
 - 📫 How to reach me: soulfast333{at}gmail.com
 - 🌱 Fun fact: I love growing my own bonsais, maybe I'll make a game about it one day.  
